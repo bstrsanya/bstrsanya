@@ -14,9 +14,9 @@
 ## Main projects
 
 - [Processor](https://github.com/bstrsanya/Processor)
-- [Language](https://github.com/bstrsanya/Language)
+- [Language](https://github.com/bstrsanya/Programming-Language)
 - [Differentiator](https://github.com/bstrsanya/Differentiator)
-- [MandelbrotSet](https://github.com/bstrsanya/Mandelbrot)
+- [MandelbrotSet](https://github.com/bstrsanya/MandelbrotSet)
 - [MyPrintf](https://github.com/bstrsanya/MyPrintf)
 
 A description of the projects can be found [here](https://github.com/bstrsanya/bstrsanya/blob/main/CV_Aleksandr_Bystritsky.pdf).
